@@ -1,0 +1,9 @@
+CSV_FILES/
+*.json
+
+.*/
+
+token.pickle
+
+__pycache__/
+*.py[cod]
